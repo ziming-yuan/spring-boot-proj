@@ -1,5 +1,5 @@
 # Spring Boot Demo Project
-This is a simple Spring Boot project that demonstrates how to create a RESTful API using Spring Boot, where I have set up login interceptor and file upload features.
+This is a simple project that demonstrates how to create a RESTful API using Spring Boot, where I have set up login interceptor and file upload features.
 
 The MyBatis Plus framework is used to interact with the database. 
 
