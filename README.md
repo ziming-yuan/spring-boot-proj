@@ -1,7 +1,7 @@
 # Spring Boot Demo Project
 This is a simple project that demonstrates how to create a RESTful API using Spring Boot, where I have set up login interceptor and file upload features.
 
-The MyBatis Plus framework is used to interact with the database. 
+The Swagger 3 framework is used to interact with the database. 
 
 A overview of the API is shown below:
 ![image](./res/API-Docs.png)
